@@ -1,9 +1,15 @@
 .lyric {
-  text-align: right;
+  text-align: center;
+  font-family: 'Lemon', cursive;
+}
+
+.main {
+  text-align: left;
   font-family: 'Lemon', cursive;
 }
 
 .accent {
-  text-align: center;
-  font-family: 'Press Start 2P', cursive;
+  text-align: left;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  color: hotpink;
 }
