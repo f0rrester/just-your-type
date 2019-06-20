@@ -1,5 +1,5 @@
 .lyric {
-  text-align: right;
+  text-align: left;
   font-family: 'Lemon', cursive;
 }
 
@@ -28,4 +28,13 @@
 .title {
   line-height: .25em;
   text-align: center;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .lyric {
+    text-align: right;
+    font-family: 'Lemon', cursive;
+  }
+
 }
