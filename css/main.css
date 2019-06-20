@@ -14,6 +14,7 @@
 
 .accent {
   text-align: left;
+  line-height: 1em;
   font-family: "Oleo Script Swash Caps", cursive;
   color: hotpink;
 }
@@ -25,9 +26,11 @@
 .artist {
   margin-bottom: 0;
   text-align: center;
+  line-height: .25em;
 }
 
 .title {
+  line-height: .25em;
   text-align: center;
 }
 
